@@ -2,4 +2,4 @@
 基于web及油猴脚本，安卓端使用via浏览器执行脚本
 效果如下：
 
-![示例截图](images/screenshot.png)
+![示例截图](images.jpg)
